@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+.env
+*.pyc
+.streamlit/
+*_test.mp3
+*_test.wav
+
+english_ryan.mp3
+jarvis_test3.mp3
+test_voice.mp3
